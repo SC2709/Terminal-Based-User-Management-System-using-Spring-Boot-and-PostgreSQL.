@@ -1,4 +1,4 @@
-#Terminal-Based User Management System using Spring Boot and PostgreSQL.
+# Terminal-Based User Management System using Spring Boot and PostgreSQL.
 
 I created a User Management System project which runs on the terminal using Spring Boot, Spring Tool Suite (STS), and PostgreSQL.
 First, I created the project using Spring Boot in STS. After that, I added the required dependencies in the pom.xml file, mainly for Spring Boot and PostgreSQL, so that my project can connect with the database.
