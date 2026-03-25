@@ -1,4 +1,5 @@
-#Terminal-Based User Management System using Spring Boot and PostgreSQL
+#Terminal-Based User Management System using Spring Boot and PostgreSQL.
+
 I created a User Management System project which runs on the terminal using Spring Boot, Spring Tool Suite (STS), and PostgreSQL.
 First, I created the project using Spring Boot in STS. After that, I added the required dependencies in the pom.xml file, mainly for Spring Boot and PostgreSQL, so that my project can connect with the database.
 Then, I worked on the database connection part by creating a separate PostgreSQLConnection.java file. In this file, I added the database URL, username, and password, and handled the connection using exception handling (try-catch). If the connection fails, it displays an error message like "The Database Connection Failed!".
